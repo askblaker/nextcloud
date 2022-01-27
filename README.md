@@ -4,8 +4,8 @@ Getting started with nextcloud.
 Not recommended or tested for production, but it's a good way to quickly test.
 
 [docker / docker-compose](https://docs.docker.com/compose/)  
-[nextcloud v23](https://nextcloud.com/)
-[traefik v2.5](https://traefik.io/traefik/)
+[nextcloud v23](https://nextcloud.com/)  
+[traefik v2.5](https://traefik.io/traefik/)  
 [postgreSQL v14.1](https://www.postgresql.org/)  
 [redis v6.2](https://redis.io/)
 
