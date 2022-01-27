@@ -46,7 +46,16 @@ If you want to reset nextcloud you can delete all containers and data like this:
 
 ```bash
 docker-compose down
+```
+
+```bash
 docker volume prune
+```
+
+```bash
 rm -rf ./app/ && rm -rf ./apps/ && rm -rf ./db/ && rm -rf ./files/ && rm -rf ./config/
+```
+
+```bash
 mkdir app && mkdir apps && mkdir config && mkdir db && mkdir files
 ```
